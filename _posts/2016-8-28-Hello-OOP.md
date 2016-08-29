@@ -1,9 +1,7 @@
---
+---
 layout: post
-title: Hello Oop
---
-
-# Hello OOP!
+title: Hello OOP!
+---
 
 **What I Did This Week:** This week involved discussions on unit testing with Google Test, as well as an examination of a few
 examples of similarities/differences between Java and C++ and, of course, setting up this blog.  It's been fascinating to see
