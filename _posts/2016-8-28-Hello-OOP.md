@@ -1,3 +1,8 @@
+--
+layout: post
+title: Hello Oop
+--
+
 # Hello OOP!
 
 **What I Did This Week:** This week involved discussions on unit testing with Google Test, as well as an examination of a few
